@@ -93,7 +93,8 @@ export class RoboVac {
 			{
 				id: config.deviceId,
 				key: config.localKey,
-				ip: config.ip
+				ip: config.ip,
+                version: 3.3
 			}
 		);
 
